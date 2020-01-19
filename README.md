@@ -1,3 +1,3 @@
 # Portfolio
 
-![The Design Jar](design jar.jpg) 
+![The Design Jar](design_jar.jpg) 
