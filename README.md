@@ -11,3 +11,6 @@ The thing that I would really like to learn is minimizing visualizations up to a
 
 ## Portfolio
 > https://bit.ly/2mgToSO
+
+## Data Visulaizations
+> [Link to other page](dataviz)
