@@ -29,15 +29,17 @@ After the user feedback, I analyzed both the graphs again and found a mistake in
 
 > Figure 6 : Projected old-age dependency ratio
 
+<div class='tableauPlaceholder' id='viz1580700278601' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Populationaged65years&#47;Population-EurostatandUNWorldPopulationProspects-2010&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Populationaged65years&#47;Population-EurostatandUNWorldPopulationProspects-2010' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Po&#47;Populationaged65years&#47;Population-EurostatandUNWorldPopulationProspects-2010&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1580700278601');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1169px';vizElement.style.height='627px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1169px';vizElement.style.height='627px';} else { vizElement.style.width='100%';vizElement.style.height='777px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
 
-
-> Source - Hage, K., Stoschek, U., So, K., Walters, P., Hughes, C., Jr, B. C., Beausoleil, L.-A., & Santos, J. (n.d.). Real Estate 2020—Building the future. 40.
+>> Source - Hage, K., Stoschek, U., So, K., Walters, P., Hughes, C., Jr, B. C., Beausoleil, L.-A., & Santos, J. (n.d.). Real Estate 2020—Building the future. 40.
 Eurostat and UN World Population Prospects 2010 (revision)
 
 > Figure 7 :  Proportion of the world population aged 60 years or more
 
 <script src="//my.visme.co/visme.js"></script><div class="visme_d" data-url="ojq49ep9-untitled-project" data-w="1366" data-h="768" data-domain="my"></div><p style="width: 222px; font-family: Montserrat,serif; border-radius:3px; padding: 3px; font-size: 12px; color: #314152">Made with <a href="https://www.visme.co/presentation-software?utm_source=CTA&utm_medium=Embed" target="_blank" style="color: #314152; font-size: 12px; font-family: Montserrat,serif; font-weight: 600; text-decoration: none"> Visme Presentation Maker</a></p>
 > Source - Hage, K., Stoschek, U., So, K., Walters, P., Hughes, C., Jr, B. C., Beausoleil, L.-A., & Santos, J. (n.d.). Real Estate 2020—Building the future. 40.
+
+>> Source - Hage, K., Stoschek, U., So, K., Walters, P., Hughes, C., Jr, B. C., Beausoleil, L.-A., & Santos, J. (n.d.). Real Estate 2020—Building the future. 40.
 
 ## Final Wireframe
 
