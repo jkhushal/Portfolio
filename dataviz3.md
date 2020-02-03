@@ -10,6 +10,8 @@ Real Estate 2020 is a 40-page report created by PWC real estate division. It is 
 
 ### Critique
 ![Critique](critique scale.jpg)
+
+
 <center><script src="https://public.tableau.com/views/crit/Sheet1?::retry=yes&:display_count=y&:origin=viz_share_link" width="700" height="400" frameborder="0"></script></center>
 
 > The visualization is representing data which is important for the report in terms of analyzing how the trend in demands in real estate will change with changing demographics. The part which stood out to me is the use of consistent colors that represents the PWC colors used throughout the report. Figure 6 is confusing as the graph is representing 10 data sets with few of them having overlapping information. The first thing I would have done on an initial look is grouping the countries continent wise and representing them as per that color set. Figure 7 shows the proportion of the world population above 60 years of age, but representation is in a way that creates the impression that the proportion is much higher than the actual. I think it is done to reinforce the point of changing demographics and its impact on real estate. I would have firstly avoided the 3d graph and created a visualization that shows the proportion from 100% rather than the current 25% of the Y-axis.
