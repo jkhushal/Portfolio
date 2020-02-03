@@ -1,8 +1,8 @@
-## Critique by Design
+# Critique by Design
 
 ## Unprecedented shifts in population drive changes in demand for real estate
 
-## Orignal Report Page
+### Orignal Report Page
 ![PWC report](orignal.jpg)
 Source - https://www.pwc.com/gx/en/asset-management/publications/pdfs/real-estate-2020-pwc.pdf 
 
