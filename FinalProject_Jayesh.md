@@ -1,5 +1,9 @@
-html {
-  background-color: var(--terra-base-background-color, #75899B);
-  background-image: var(--terra-base-background-image, none);
+keypadLight.story = {
+  name: 'light',
+  parameters: {
+    backgrounds: [
+      { name: 'dark background', value: '#D4E6F1', default: true }
+    ]
+  }
 }
 # Gentrification
