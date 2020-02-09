@@ -52,3 +52,12 @@ The comparison of the data of the census tracts from the year 2000 and the year 
 1.	Know your Neighbor – The idea is that if you are one of the residents moving in a gentrifying neighborhood, do not ignore the current residents. Don’t make them feel the socio-economic differences and engage with them in a conversation to understand the dynamics of an old neighborhood.
 2.	Demand more affordable housing – Asking the city to invest and encourage the developers to provide more affordable housing so that the ethnicity of the neighborhood can be maintained.
 3.	Employment for the local youth in these chains to encourage community development and introducing employment and skill-based opportunities of r the people in the neighborhood to make them capable enough to live happily in their own neighborhoods.
+
+
+## Data Sources
+
+> Data on Whole Foods statistics
+![Whole Foods Statistics](https://www.statista.com/statistics/258682/whole-foods-markets-number-of-stores-worldwide/)
+
+> Data on Demographic Change in Pittsburgh
+!
