@@ -33,4 +33,22 @@
 
 > The main idea is for the viewers to visualize and grasp the context before indulging in the main story of food and gentrification. For the 1st part, I would like to keep the visualizations simple so as the user can correlate without requiring the interpretation of graphics.
 
+### When?
+![Middle](part2.png)
 
+> Section 2 is when I will start to correlate Whole Foods and Gentrification through the example of East Liberty, Pittsburgh. This the middle of the conflict part of the story. I will start showing the users how the demographics of the neighborhood have changed over the years and when did whole foods come into the picture. Though there are a few limitations in this – 
+
+•	The yearly demographic data available block-wise is limited and they area understudy was on the verge of gentrification and whole foods just ignited the whole process. 
+•	There might be other factors involved in gentrification but nevertheless, the idea of this project for me is to create a base in which 
+
+> I can continue further after the course to study similar effects in Chicago, Detroit, Boston, etc. 
+The comparison of the data of the census tracts from the year 2000 and the year 2010 will help the user understand the change in demographics and the households this neighborhood has seen.
+
+### How?
+![Resolution](part3.png)
+
+> Section 3 and the resolution will focus on identifying a solution, not at the expense of development. Stores like whole foods though may have caused gentrification but were also involved in the development of Neighborhood and so the plan of action should not be focused on the expense of the neighborhood. The three-step action plan that I would like to suggest is –
+
+1.	Know your Neighbor – The idea is that if you are one of the residents moving in a gentrifying neighborhood, do not ignore the current residents. Don’t make them feel the socio-economic differences and engage with them in a conversation to understand the dynamics of an old neighborhood.
+2.	Demand more affordable housing – Asking the city to invest and encourage the developers to provide more affordable housing so that the ethnicity of the neighborhood can be maintained.
+3.	Employment for the local youth in these chains to encourage community development and introducing employment and skill-based opportunities of r the people in the neighborhood to make them capable enough to live happily in their own neighborhoods.
