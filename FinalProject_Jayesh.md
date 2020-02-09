@@ -82,3 +82,18 @@ The comparison of the data of the census tracts from the year 2000 and the year 
 > Other Resources - 
 > [Eviction Data of Pittsburgh](https://eviction-lab-data-downloads.s3.amazonaws.com/PA/all.csv)
 > [resources on Food and Gentrification](https://www.smartcitiesdive.com/ex/sustainablecitiescollective/whole-foods-lewis-and-clark-gentrification/181221/)
+
+>> I would be using these resources for futher understanding of gentrification and also to create profiles of people who have faced gentrification in their own neighborhoods.
+
+## Method and Medium 
+
+![SHorthand](Shorthand-logo.gif)(https://shorthand.com/)
+
+
+> I would be using **shorthand** to create the digital story map. The initial idea is to divide the project into 2 parts – 1 which is a shorter version of the final project and can be viewed during the final presentation and the second which accounts for all the details of the project along with the initial sketches of how it was visualized.
+
+> For data visualizations, I would be using **Tableau** and embedding the same in shorthand using Tableau Public. I would also be using **ArcGIS** to create a story map of how demographics have changed in the neighborhood and use a swipe or spyglass to create an interactive visualization. The same would also be embedded in Shorthand.
+
+### Future Scope
+
+> I plan to carry forward this project throughout the semester for my Spatial analysis for Infrastructure Planning course and create story maps for cities of Detroit, Chicago, Boston, etc. The motive behind this is that the study on Pittsburgh itself would be handicapped and with the analysis I would be building up for other cities will help me in understanding the core of Food and Gentrification and the cause of Socio-Economic inequality it creates
