@@ -29,5 +29,8 @@
 ### What?
 ![Introduction](part1.png)
 
-> 
+> Section 1 depicts the three questions of what is whole foods? What is gentrification? And Why is gentrification bad? The graphs would be based upon the statistics of how while foods have grown in the united states and their presence. A map of the United States with the presence of whole foods in a choropleth map in tableau. Followed by the definition of Gentrification and Why gentrification is bad.
+
+> The main idea is for the viewers to visualize and grasp the context before indulging in the main story of food and gentrification. For the 1st part, I would like to keep the visualizations simple so as the user can correlate without requiring the interpretation of graphics.
+
 
