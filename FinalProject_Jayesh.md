@@ -76,4 +76,9 @@ The comparison of the data of the census tracts from the year 2000 and the year 
 ![Neighborhood Profile - 2010](https://ucsur.pitt.edu/files/census/UCSUR_SF1_NeighborhoodProfiles_July2011.pdf)
 ![Neighborhood Profile - 2000](https://ucsur.pitt.edu/files/census/NeighborhoodProfiles6-02.pdf)
 
->> 
+>> The neighborhod profile data as per the census and sourced from University of Pittsburgh's online resources has demographic profile of East Liberty though which I plan to create visualizations whre a viewer can click and contrats between the two data to analyze what has changed over a decade.
+
+
+> Other Resources - 
+![Eviction Data of Pittsburgh](https://eviction-lab-data-downloads.s3.amazonaws.com/PA/all.csv)
+![resources on Food and Gentrification](https://www.smartcitiesdive.com/ex/sustainablecitiescollective/whole-foods-lewis-and-clark-gentrification/181221/)
