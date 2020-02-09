@@ -11,7 +11,7 @@
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
+#  
 > When Whole Foods or Starbucks enter into a neighborhood the first thought that comes in your mind is “that’s awesome” But is it Really?
 
 > The idea of the project food and gentrification is to highlight how things like grocery stores can spark gentrification in a neighborhood. Whole foods have always been at the center of the debate of who came first gentrification or whole foods. Their strategic location such as east liberty in Pittsburgh or Englewood in Chicago gives them a strategic advantage of being surrounded by affluent neighborhoods but their placement in a neighborhood such as east liberty which is already struggling with gentrification outs them at the center of igniting the gentrification of a neighborhood. These premium food chains can create socio-economic inequality resulting in driving the original population of the neighborhood of their households.
