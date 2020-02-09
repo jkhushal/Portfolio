@@ -23,3 +23,11 @@
 3.	Employment for the local youth in these chains to encourage community development
 
 > For the final project, I would be focusing on east Liberty in Pittsburgh and understanding the impact Whole Foods has had on the neighborhood.
+
+## Initial Sketches
+
+### What?
+![Introduction](part1.png)
+
+> 
+
