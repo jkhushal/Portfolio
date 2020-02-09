@@ -59,5 +59,21 @@ The comparison of the data of the census tracts from the year 2000 and the year 
 > Data on Whole Foods statistics
 ![Whole Foods Statistics](https://www.statista.com/statistics/258682/whole-foods-markets-number-of-stores-worldwide/)
 
+>> The statistics on Whole Foods will help in analyzing how Whole Foods has grown over the time in United states and their presence state wise so a user can visualize along with the narrative on what exactly is whole foods.
+
 > Data on Demographic Change in Pittsburgh
-!
+![Demographics of Pittsburgh](https://datausa.io/profile/geo/pittsburgh-pa/)
+
+>> Datausa.io provides the demographic profiles of people living in Pittsburgh and how it is changing over the last 5 years, I would be using the data from here to create graphics on how median household income and rents have increased in the last few years and their correlation.
+
+> Data sources to Study Neigborhood Level Gentrification
+![Census Tracts](https://catalog.data.gov/dataset/pgh-snap)
+![GIS Data Allegheny County](https://www.alleghenycounty.us/gis/get-gis-data.aspx)
+
+>> The census tracts and the GIS data will help me create story maps on ESRI Arc Gis and through which I plan to create Swipe maps to show a comaprison between year 2000 and year 2010 at tract level and block level (if the data is available for block level). 
+
+> Neighborhood Profile - East Liberty
+![Neighborhood Profile - 2010](https://ucsur.pitt.edu/files/census/UCSUR_SF1_NeighborhoodProfiles_July2011.pdf)
+![Neighborhood Profile - 2000](https://ucsur.pitt.edu/files/census/NeighborhoodProfiles6-02.pdf)
+
+>> 
