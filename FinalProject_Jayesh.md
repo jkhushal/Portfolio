@@ -41,6 +41,7 @@
 > Section 2 is when I will start to correlate Whole Foods and Gentrification through the example of East Liberty, Pittsburgh. This the middle of the conflict part of the story. I will start showing the users how the demographics of the neighborhood have changed over the years and when did whole foods come into the picture. Though there are a few limitations in this – 
 
 •	The yearly demographic data available block-wise is limited and they area understudy was on the verge of gentrification and whole foods just ignited the whole process. 
+
 •	There might be other factors involved in gentrification but nevertheless, the idea of this project for me is to create a base in which 
 
 > I can continue further after the course to study similar effects in Chicago, Detroit, Boston, etc. 
