@@ -1,4 +1,9 @@
 # Final Project - **Food & Gentrification**
+
+## Mood Board
+
+![Mood Board](moodboard.jpeg)
+
 ## Story Board
 
 ![Introduction](part1.png)
