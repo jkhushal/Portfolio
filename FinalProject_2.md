@@ -2,7 +2,7 @@
 
 ## Mood Board
 
-![Mood Board](moodboard.jpeg){width=50%}
+![Mood Board](moodboard.jpeg)
 
 ## Story Board
 
