@@ -1,6 +1,10 @@
 # Final Project - **Food & Gentrification**
 ## Story Board
 
+![Introduction](part1.png)
+![Middle](part2.png)
+![Resolution](part3.png)
+
 <div class="infogram-embed" data-id="9f3badd1-62fd-4afb-83fa-d2587ac94ae5" data-type="interactive" data-title="Untitled chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/9f3badd1-62fd-4afb-83fa-d2587ac94ae5" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
 <div class="infogram-embed" data-id="13c46e15-8ac6-4677-b5d7-cb44040cc6dc" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/13c46e15-8ac6-4677-b5d7-cb44040cc6dc" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
