@@ -2,13 +2,18 @@
 
 ## Mood Board
 
-![Mood Board](moodboard.jpeg)
+![Mood Board](moodboard.jpeg=450x600)
 
 ## Story Board
 
 ![Introduction](part1.png)
+> Section 1 depicts the three questions of what is whole foods? What is gentrification? And Why is gentrification bad?
+
 ![Middle](part2.png)
+Section 2 is when I will start to correlate Whole Foods and Gentrification through the example of East Liberty, Pittsburgh. 
+
 ![Resolution](part3.png)
+Section 3 and the resolution will focus on identifying a solution, not at the expense of development.
 
 <div class="infogram-embed" data-id="9f3badd1-62fd-4afb-83fa-d2587ac94ae5" data-type="interactive" data-title="Untitled chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/9f3badd1-62fd-4afb-83fa-d2587ac94ae5" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
