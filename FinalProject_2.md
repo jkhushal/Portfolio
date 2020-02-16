@@ -2,7 +2,7 @@
 
 ## Mood Board
 
-![Mood Board](moodboard.jpeg=450x600)
+![Mood Board](moodboard.jpeg =450x600)
 
 ## Story Board
 
