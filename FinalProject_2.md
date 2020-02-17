@@ -92,3 +92,6 @@ Continued below
 
 <script src="https://embed.shorthand.com/embed_6.js"></script>
 <div data-shorthand-embed="carnegiemellon.shorthandstories.com/gentrification-and-food/"><h1>Gentrification and Food</h1><p> When Whole Foods or Starbucks enter into a neighborhood the first thought that comes in your mind is “that’s awesome” But is it really? </p></div>
+
+> [Story Preview](https://carnegiemellon.shorthandstories.com/gentrification-and-food/index.html)
+
