@@ -62,5 +62,33 @@ Continued below
 
 > The user reviews were very helpful especially the one with the professor in the School of Architecture. She helped me in understanding the issue of gentrification and the underlying causes. The student reviews helped in realizing that there might some breaks in my storyline and how a few graphics were difficult to read. While I was designing the visualizations, since I had already seen the database, it felt to me that I could read the graphics without considering the intended audience. There was some positive feedback also on how the overall the storyline meant sense to them, the change in color scheme with each section was exciting and that they would love to see the final version.
 
+> After summarizing the critiques, I started creating the first draft of the shorthand presentation. Firstly I changed the title of the project from Food & Gentrification to Gentrification & Food, as the main aim of the story was to highlight the negative impacts of gentrification and linking it with an aspect of a development project and how it impacts the process. Secondly, I restructured the storyline – explain gentrification and its effects and then start to link it with Whole Foods and its impact.
 
+#### [First Darft](https://carnegiemellon.shorthandstories.com/gentrification-and-food/index.html)
+![Gentrification & Food](Gent.jpg)
+
+#### User Review - Round 2
+
+> The second user feedback was during the class with the group discussion. Everyone liked the way it was coming out but felt that there were certain aspects that they could not be easily understood such as the meaning of census tracts and what is the bar graph trying to represent. Also, they pointed out that I could do away with the visualization of the presence of whole foods as it was coming back later in the story. So, I decided that I will clean things out for the presentation and leave certain aspects in the final project which I felt were important for the project as a whole but may be difficult to convey in one minute.
+
+### Revised Story Line [Part 3](FinalProject_3.md)
+
+> With the first draft ready, the main issue that came up was that there sections where it felt that I was leading the audience without providing them with data to compare and contrast the situation and come with their own understanding. So instead of Why Gentrification is Bad?, I decided to recreate the section as Effects of Gentrification and provide both positive and negative impacts of it. 
+
+> The Second section I modified was on Whole Foods, where I started looking for statistics that will help in reinforcing my point. I came across a study conducted by Zillow which analyzed how Whole Foods and Trader Joes impact the property process.
+
+<iframe title="" aria-label="Interactive line chart" id="datawrapper-chart-TZ9mg" src="//datawrapper.dwcdn.net/TZ9mg/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="650"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
+</script>
+
+#### [Data Sources Used](FinalProject_Jayesh.md#data-sources)
+
+#### Represntation Techiques 
+
+> While I was creating the final story, I started using tableau for creating the visualizations. Eventually, I felt more comfortable working with datawrapper as it was more intuitive and felt better after embedding. For the maps, I relied on Tableau and ArcGIS. The images were sourced from Unsplash and did not have any any copyright limitations. 
+
+> With the additional data sets ready, it was time to start with the final version of the story. 
+
+## ![Final Project](https://carnegiemellon.shorthandstories.com/gentrification---food/index.html)
+
+## ![Final Project Presentation](https://carnegiemellon.shorthandstories.com/gentrification---food--brief-/index.html)
 
