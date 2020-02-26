@@ -14,10 +14,16 @@ The thing that I would really like to learn is minimizing visualizations up to a
 
 ## Telling Stories with Data
 
+### Data Visualizations
+
 > [Week 2](dataviz2.md)
 
 > [Week 3](dataviz3.md)
 
+### Final Project
+
 > [Final Project Outline](FinalProject_Jayesh.md)
 
 > [Final Project - User Review](FinalProject_2.md)
+
+> [Final Project - Presentation](FinalProject_3.md)
