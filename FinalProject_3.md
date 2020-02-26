@@ -28,7 +28,7 @@ The difficult part is how can we prevent gentrification? The 4-step approach or 
 
 > As a storyteller, I shouldn’t enforce my views on the reader and rather provide them with both sides of the coin. The end result should be a call of action that targets the negative impact and protects the neighborhood while it revitalizes.
 
-#### Wireframes
+#### [Wireframes](FinalProject_Jayesh.md#initial-sketches)
 
 To create the first set of wireframes, I used Balsamiq to visualize how the story map will respond to the story arc. Balsamiq makes it very simple to sketch out the screens of how you think your project should be framed and gives a rough idea of your methodology of working. 
 
@@ -53,7 +53,7 @@ Continued below
 
 <div class="infogram-embed" data-id="13c46e15-8ac6-4677-b5d7-cb44040cc6dc" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/13c46e15-8ac6-4677-b5d7-cb44040cc6dc" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-#### User Review
+#### [User Review](FinalProject_2.md#user-feedback)
 
 > After creating a detailed storyboard, it was important to get user feedback and critique to understand if your story works, things you may have missed out as the fatigue hits working on the same thing. or the User Feedback, I decided to get feedback from 4 persons 
 
