@@ -29,7 +29,7 @@ The difficult part is how can we prevent gentrification? The 4-step approach or 
 
 > As a storyteller, I shouldn’t enforce my views on the reader and rather provide them with both sides of the coin. The end result should be a call of action that targets the negative impact and protects the neighborhood while it revitalizes.
 
-#### [Wireframes](FinalProject_Jayesh.md#initial-sketches)
+### [Wireframes](FinalProject_Jayesh.md#initial-sketches)
 
 To create the first set of wireframes, I used Balsamiq to visualize how the story map will respond to the story arc. Balsamiq makes it very simple to sketch out the screens of how you think your project should be framed and gives a rough idea of your methodology of working. 
 
@@ -44,7 +44,7 @@ Section 3 and the resolution will focus on identifying a solution, not at the ex
 
 ### Design and User Research [Part 2](FinalProject_2.md)
 
-#### Story Board
+### Story Board
 
 > On the basis of the previously created wireframes on Balsamiq, I developed them further through Infogram to incorporate data sets created in tableau and to visualize the story as a whole before getting the user feedback.
 
@@ -54,7 +54,7 @@ Continued below
 
 <div class="infogram-embed" data-id="13c46e15-8ac6-4677-b5d7-cb44040cc6dc" data-type="interactive" data-title="Untitled dashboard"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/13c46e15-8ac6-4677-b5d7-cb44040cc6dc" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled dashboard</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
-#### [User Review](FinalProject_2.md#user-feedback)
+### [User Review](FinalProject_2.md#user-feedback)
 
 > After creating a detailed storyboard, it was important to get user feedback and critique to understand if your story works, things you may have missed out as the fatigue hits working on the same thing. or the User Feedback, I decided to get feedback from 4 persons 
 
@@ -81,9 +81,9 @@ Continued below
 <iframe title="" aria-label="Interactive line chart" id="datawrapper-chart-TZ9mg" src="//datawrapper.dwcdn.net/TZ9mg/3/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="650"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();
 </script>
 
-#### [Data Sources Used](FinalProject_Jayesh.md#data-sources)
+### [Data Sources Used](FinalProject_Jayesh.md#data-sources)
 
-#### Represntation Techiques 
+### Represntation Techiques 
 
 > While I was creating the final story, I started using tableau for creating the visualizations. Eventually, I felt more comfortable working with datawrapper as it was more intuitive and felt better after embedding. For the maps, I relied on Tableau and ArcGIS. The images were sourced from Unsplash and did not have any any copyright limitations. 
 
