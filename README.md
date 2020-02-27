@@ -10,7 +10,7 @@
 The thing that I would really like to learn is minimizing visualizations up to an extent where a layman can understand the most important aspect of the data. Colors psychology and synchronization is another aspect which I hope to learn from this class.
 
 ## Portfolio
-> https://bit.ly/2mgToSO
+> [Architectural Portfolio](https://bit.ly/2mgToSO)
 
 ## Telling Stories with Data
 
