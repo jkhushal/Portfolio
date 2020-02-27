@@ -83,7 +83,7 @@ Continued below
 
 ### [Data Sources Used](FinalProject_Jayesh.md#data-sources)
 
-### Represntation Techiques 
+### Representation Techiques 
 
 > While I was creating the final story, I started using tableau for creating the visualizations. Eventually, I felt more comfortable working with datawrapper as it was more intuitive and felt better after embedding. For the maps, I relied on Tableau and ArcGIS. The images were sourced from Unsplash and did not have any any copyright limitations. 
 
