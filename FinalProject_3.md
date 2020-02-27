@@ -24,6 +24,7 @@ The difficult part is how can we prevent gentrification? The 4-step approach or 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+
 > Eventually, I started to realize that the story arc needs to be modified as the topic in itself was complicated and could not be justified with what I had originally thought. The What, When and How needed to include the effects these things on Neighborhood, positive as well as Negative. 
 
 > As a storyteller, I shouldn’t enforce my views on the reader and rather provide them with both sides of the coin. The end result should be a call of action that targets the negative impact and protects the neighborhood while it revitalizes.
@@ -88,7 +89,7 @@ Continued below
 
 > With the additional data sets ready, it was time to start with the final version of the story. 
 
-## ![Final Project](https://carnegiemellon.shorthandstories.com/gentrification---food/index.html)
+## [Final Project](https://carnegiemellon.shorthandstories.com/gentrification---food/index.html)
 
-## ![Final Project Presentation](https://carnegiemellon.shorthandstories.com/gentrification---food--brief-/index.html)
+## [Final Project Presentation](https://carnegiemellon.shorthandstories.com/gentrification---food--brief-/index.html)
 
