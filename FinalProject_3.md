@@ -46,7 +46,7 @@ Section 3 and the resolution will focus on identifying a solution, not at the ex
 
 #### Story Board
 
->  the basis of the previously created wireframes on Balsamiq, I developed them further through Infogram to incorporate data sets created in tableau and to visualize the story as a whole before getting the user feedback.
+> On the basis of the previously created wireframes on Balsamiq, I developed them further through Infogram to incorporate data sets created in tableau and to visualize the story as a whole before getting the user feedback.
 
 <div class="infogram-embed" data-id="9f3badd1-62fd-4afb-83fa-d2587ac94ae5" data-type="interactive" data-title="Untitled chart"></div><script>!function(e,i,n,s){var t="InfogramEmbeds",d=e.getElementsByTagName("script")[0];if(window[t]&&window[t].initialized)window[t].process&&window[t].process();else if(!e.getElementById(n)){var o=e.createElement("script");o.async=1,o.id=n,o.src="https://e.infogram.com/js/dist/embed-loader-min.js",d.parentNode.insertBefore(o,d)}}(document,0,"infogram-async");</script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/9f3badd1-62fd-4afb-83fa-d2587ac94ae5" style="color:#989898!important;text-decoration:none!important;" target="_blank">Untitled chart</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
 
