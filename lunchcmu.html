@@ -27,12 +27,12 @@
           center: {lat: 40.4583498, lng: -80.079528},  // Setting the center to Pittsburgh
           zoom: 15,  // Setting a zoom scale for Pittsburgh
         // Add JSON from Map Style Wizard here  
-          styles: [
+[
   {
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#610c4c"
+        "color": "#1db0cb"
       }
     ]
   },
@@ -40,7 +40,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#d61e99"
+        "color": "#523735"
       }
     ]
   },
@@ -48,25 +48,45 @@
     "elementType": "labels.text.stroke",
     "stylers": [
       {
-        "color": "#24041b"
+        "color": "#f5f1e6"
       }
     ]
   },
   {
     "featureType": "administrative",
-    "elementType": "geometry",
     "stylers": [
       {
         "visibility": "off"
+      },
+      {
+        "weight": 0.5
       }
     ]
   },
   {
-    "featureType": "administrative.country",
+    "featureType": "administrative",
     "elementType": "geometry.stroke",
     "stylers": [
       {
-        "color": "#ef31d5"
+        "color": "#f1e9e6"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "geometry.fill",
+    "stylers": [
+      {
+        "color": "#148194"
+      }
+    ]
+  },
+  {
+    "featureType": "administrative.land_parcel",
+    "elementType": "geometry.stroke",
+    "stylers": [
+      {
+        "color": "#f1e9e6"
       }
     ]
   },
@@ -84,25 +104,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#610c4c"
-      }
-    ]
-  },
-  {
-    "featureType": "administrative.province",
-    "elementType": "geometry.stroke",
-    "stylers": [
-      {
-        "color": "#ef31d5"
-      }
-    ]
-  },
-  {
-    "featureType": "landscape.man_made",
-    "elementType": "geometry.stroke",
-    "stylers": [
-      {
-        "color": "#610c4c"
+        "color": "#ae9e90"
       }
     ]
   },
@@ -111,15 +113,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#610c4c"
-      }
-    ]
-  },
-  {
-    "featureType": "poi",
-    "stylers": [
-      {
-        "visibility": "off"
+        "color": "#168ca0"
       }
     ]
   },
@@ -128,7 +122,16 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#283d6a"
+        "color": "#dfd2ae"
+      }
+    ]
+  },
+  {
+    "featureType": "poi",
+    "elementType": "labels.text",
+    "stylers": [
+      {
+        "visibility": "off"
       }
     ]
   },
@@ -137,16 +140,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#d61e99"
-      }
-    ]
-  },
-  {
-    "featureType": "poi",
-    "elementType": "labels.text.stroke",
-    "stylers": [
-      {
-        "color": "#24041b"
+        "color": "#93817c"
       }
     ]
   },
@@ -155,7 +149,7 @@
     "elementType": "geometry.fill",
     "stylers": [
       {
-        "color": "#023e58"
+        "color": "#1ebbd5"
       }
     ]
   },
@@ -164,7 +158,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#a3147a"
+        "color": "#447530"
       }
     ]
   },
@@ -173,43 +167,16 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#d61e99"
-      }
-    ]
-  },
-  {
-    "featureType": "road",
-    "elementType": "labels.icon",
-    "stylers": [
-      {
-        "visibility": "off"
-      }
-    ]
-  },
-  {
-    "featureType": "road",
-    "elementType": "labels.text.fill",
-    "stylers": [
-      {
-        "color": "#d61e99"
-      }
-    ]
-  },
-  {
-    "featureType": "road",
-    "elementType": "labels.text.stroke",
-    "stylers": [
-      {
-        "color": "#24041b"
+        "color": "#f5f1e6"
       }
     ]
   },
   {
     "featureType": "road.arterial",
-    "elementType": "labels",
+    "elementType": "geometry",
     "stylers": [
       {
-        "visibility": "off"
+        "color": "#f1e9e6"
       }
     ]
   },
@@ -218,7 +185,7 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#ef31d5"
+        "color": "#f1e9e6"
       }
     ]
   },
@@ -227,42 +194,25 @@
     "elementType": "geometry.stroke",
     "stylers": [
       {
-        "color": "#d61e99"
+        "color": "#f1e9e6"
       }
     ]
   },
   {
-    "featureType": "road.highway",
-    "elementType": "labels",
+    "featureType": "road.highway.controlled_access",
+    "elementType": "geometry",
     "stylers": [
       {
-        "visibility": "off"
+        "color": "#e98d58"
       }
     ]
   },
   {
-    "featureType": "road.highway",
-    "elementType": "labels.text.fill",
+    "featureType": "road.highway.controlled_access",
+    "elementType": "geometry.stroke",
     "stylers": [
       {
-        "color": "#d61e99"
-      }
-    ]
-  },
-  {
-    "featureType": "road.highway",
-    "elementType": "labels.text.stroke",
-    "stylers": [
-      {
-        "color": "#24041b"
-      }
-    ]
-  },
-  {
-    "featureType": "road.local",
-    "stylers": [
-      {
-        "visibility": "off"
+        "color": "#b35636"
       }
     ]
   },
@@ -276,37 +226,38 @@
     ]
   },
   {
-    "featureType": "transit",
-    "stylers": [
-      {
-        "visibility": "off"
-      }
-    ]
-  },
-  {
-    "featureType": "transit",
+    "featureType": "road.local",
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#d61e99"
-      }
-    ]
-  },
-  {
-    "featureType": "transit",
-    "elementType": "labels.text.stroke",
-    "stylers": [
-      {
-        "color": "#24041b"
+        "color": "#806b63"
       }
     ]
   },
   {
     "featureType": "transit.line",
-    "elementType": "geometry.fill",
+    "elementType": "geometry",
     "stylers": [
       {
-        "color": "#610c4c"
+        "color": "#dfd2ae"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "labels.text.fill",
+    "stylers": [
+      {
+        "color": "#8f7d77"
+      }
+    ]
+  },
+  {
+    "featureType": "transit.line",
+    "elementType": "labels.text.stroke",
+    "stylers": [
+      {
+        "color": "#ebe3cd"
       }
     ]
   },
@@ -315,16 +266,16 @@
     "elementType": "geometry",
     "stylers": [
       {
-        "color": "#610c4c"
+        "color": "#dfd2ae"
       }
     ]
   },
   {
     "featureType": "water",
-    "elementType": "geometry",
+    "elementType": "geometry.fill",
     "stylers": [
       {
-        "color": "#24041b"
+        "color": "#aadae3"
       }
     ]
   },
@@ -333,7 +284,7 @@
     "elementType": "labels.text.fill",
     "stylers": [
       {
-        "color": "#a3147a"
+        "color": "#92998d"
       }
     ]
   }
